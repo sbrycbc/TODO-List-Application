@@ -1,3 +1,7 @@
+# Overview
+
+It's time to create a full TypeScript project. This project shows how to create an entire TODO list implementation in TypeScript. Also tested how to get started with TypeScript at both basic and advanced levels...
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
